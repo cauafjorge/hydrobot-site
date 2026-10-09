@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="HydroBot">
+  <rect width="64" height="64" rx="15" fill="#101014"/>
+  <path d="M12 34h40v16H12z" fill="#D12620"/>
+  <circle cx="22" cy="52" r="6" fill="#F77F00"/>
+  <circle cx="44" cy="52" r="6" fill="#F77F00"/>
+  <path d="M29 12h7v24h-7zM35 13h12v6H35z" fill="#F5F5F5"/>
+  <path d="M47 16c5 4 6 9 3 14" fill="none" stroke="#FCBF49" stroke-width="4" stroke-linecap="round"/>
+</svg>
